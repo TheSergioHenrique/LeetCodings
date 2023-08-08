@@ -7,4 +7,7 @@ Estive usando PT-BR 🇧🇷 na resolução das questões por conta de que acho 
 ```
 Any questions? Remember that you can always contact me! I'd be glad to help! 
 Alguma pergunta? lembre-se que sempre pode me contactar! ficaria feliz em ajudar!
+
+RESOLUÇÕES EM VÍDEO SENDO UPADAS NO CANAL ABAIXO:
+https://www.youtube.com/watch?v=rxBASoHl0BQ&t=129s
 ```
