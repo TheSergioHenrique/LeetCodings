@@ -4,10 +4,9 @@ My LeetCode answers!/Minhas respostas do LeetCode!
 ##Disclaimer!
 Been using PT-BR 🇧🇷 while solving these questions because I don't think a lot of people do this. So I might help someone with it!<br /> 
 Estive usando PT-BR 🇧🇷 na resolução das questões por conta de que acho que muitas pessoas não façam isso. Então talvez eu consiga ajudar alguém no processo.  <br />
+
+[Resoluções gravadas em vídeo](https://www.youtube.com/@LastCallDBS)
 ```
 Any questions? Remember that you can always contact me! I'd be glad to help! 
 Alguma pergunta? lembre-se que sempre pode me contactar! ficaria feliz em ajudar!
-
-RESOLUÇÕES EM VÍDEO SENDO UPADAS NO CANAL ABAIXO:
-https://www.youtube.com/watch?v=rxBASoHl0BQ&t=129s
 ```
