@@ -1,0 +1,17 @@
+class Solution {
+    public String mergeAlternately(String word1, String word2) {
+        StringBuilder merger = new StringBuilder();
+        //Vou achar qual o menor valor entre as duas strings e fazer append.
+        int menorLength = Math.min(word1.length(),word2.length());
+        
+        for(int i=0; i < menorLength;i++){
+            merger.append(word1.charAt(i)).append(word2.charAt(i));
+        }
+        //Lidando com os casos possíveis(teriamos 3, o de word1 e word2 terem a mesma length, e o de algum dos dois ser menor.)
+        if (word1.length() > menorLength){
+            merger.append(word1.substring(menorLength));
+        }else{merger.append(word2.substring(menorLength));}
+        
+        return merger.toString();
+    }
+}
